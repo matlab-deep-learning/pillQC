@@ -1,5 +1,8 @@
 # PillQC
 
+A pill quality control dataset and associated visual inspection example.
+
+## PillQC Data
 This repository provides a dataset to demonstrate visual inspection and quality control related to pill manufacturing. The dataset contains three classes of images: normal pills which are free of defects, pills with dirt contamination, and pills with a chip defect. 
 
 <img src="images/normal/normal0001.jpg?raw=true">
