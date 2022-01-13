@@ -20,6 +20,6 @@ This repository provides a MATLAB example as a Live Script which is based on the
 }
 ```
 
-# License
+## License
 
 The license used in this contribution is the XSLA license, which is the most common license for MathWorks staff contributions.
